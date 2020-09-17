@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "\&#34;Train of Thought\&#34;",
+    "message": "Train of Thought",
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "&#34;No more loosing the Train of Thought!&#34;",
+    "message": "No more loosing the Train of Thought!",
     "description": "The description of the application"
   }
 }
